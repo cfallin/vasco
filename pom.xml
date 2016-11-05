@@ -18,18 +18,10 @@
 
     <dependencies>
         <dependency>
-            <groupId>soot</groupId>
+            <groupId>ca.mcgill.sable</groupId>
             <artifactId>soot</artifactId>
-            <version>RELEASE</version>
+            <version>2016-07-27</version>
         </dependency>
     </dependencies>
-
-    <repositories>
-        <repository>
-            <id>bedatadriven</id>
-            <name>bedatadriven public repo</name>
-            <url>https://nexus.bedatadriven.com/content/groups/public/</url>
-        </repository>
-    </repositories>
 
 </project>
